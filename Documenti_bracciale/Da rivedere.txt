@@ -1,0 +1,2 @@
+Su programma da rivedere gestione batteria e problema con invio di dati multipli.
+Da comprare regolatore di tensione famiglia mic52xx. 
